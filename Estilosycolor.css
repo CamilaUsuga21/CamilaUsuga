@@ -1,0 +1,62 @@
+body{ 
+    background: rgb(255, 255, 255); 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+    background: rgb(248, 32, 32);
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    color: rgb(10, 10, 10);
+}
+
+nav{
+    background: rgb(253, 54, 237);
+    height: 300px;
+    text-align:center;
+    line-height: 300px;
+    color: rgb(10, 10, 10);
+}
+
+#lince{
+    background: rgb(75, 250, 84);
+    height: 300px; 
+    width: 50%;
+    float: left;
+    text-align:center;
+    line-height: 300px;
+    color: rgb(7, 7, 7);
+}
+
+
+#boa{
+    background: rgb(250, 253, 68);
+    height: 300px;
+    width: 50%;
+    float: left;
+    text-align:center;
+    line-height: 300px;
+    color: rgb(12, 12, 12);
+}
+
+#camaleon{
+    background: rgb(248, 136, 8);
+    height: 300px;
+    width: 100%;
+    float: left;
+    text-align:center;
+    line-height: 300px;
+    color: rgb(8, 8, 8);
+}
+
+
+
+footer{
+    clear: both;
+    background: rgb(86, 74, 255);
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    color: rgb(10, 10, 10);
+}
